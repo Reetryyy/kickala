@@ -1,2 +1,1 @@
-# kickala
-Kickala Repository
+### Kickala | Making tech simple.
